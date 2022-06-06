@@ -1,4 +1,4 @@
-import vfile from 'to-vfile';
+import * as vfile from 'to-vfile';
 import { unified } from 'unified';
 import remarkParse from 'remark-parse';
 import remarkStringify from 'remark-stringify';
